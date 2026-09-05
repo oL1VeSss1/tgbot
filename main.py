@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 import time
 
-TOKEN = '8237377833:AAHX98FtE1zyLuq9AOjVczXEIG5oVXutsxE'
+TOKEN = ''
 # СПИСОК АДМИНОВ (добавь сюда ID всех админов через запятую)
-ADMIN_IDS = [8236173251, 8770292226, 8400872265]  
+ADMIN_IDS = []  
 
 bot = telebot.TeleBot(TOKEN)
 
